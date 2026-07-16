@@ -17,6 +17,8 @@
 
 Python and AI infrastructure engineer with 7+ years of experience building production systems across fintech, IoT, and backend infrastructure. I work across the stack, from embedded firmware to asynchronous, cloud-native services.
 
+Active across five core programming languages, with ongoing contributions to backend, AI, embedded, and developer-tooling projects.
+
 - **Backend & infrastructure**: FastAPI, Asyncio, WebSockets, Redis, PostgreSQL, Docker, and hardened Linux deployments
 - **AI systems**: agent orchestration, LLM fine-tuning, RAG pipelines, and LangChain integrations
 - **Data & quantitative tooling**: streaming market-data processing, order-flow analysis, and auditable event pipelines
