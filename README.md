@@ -57,13 +57,9 @@ Active across five core programming languages, with ongoing contributions to bac
 
 ---
 
-### GitHub stats
+### Current focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kusarok&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusarok&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-</p>
-
----
-
-<p align="center"><i>Open to senior remote roles in Python, AI engineering, backend systems, quantitative tooling, and infrastructure.</i></p>
+- Building privacy-first language tools and AI-powered developer workflows
+- Designing asynchronous backend services and streaming data systems
+- Developing embedded telemetry and Linux networking infrastructure
+- Open to senior remote roles in Python, AI engineering, backend systems, quantitative tooling, and infrastructure
